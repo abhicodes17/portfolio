@@ -266,6 +266,18 @@ body {
   color: #ff2d55;
 }
 
+.contact-list {
+  display: flex;
+}
+
+.contact-item {
+  display: flex;
+}
+
+.contact-label {
+  color: var(--text-main);
+}
+
 .input-line {
   display: flex;
   align-items: center;
